@@ -12,9 +12,9 @@ layout: home
 
     Our goal is to bring students, researchers, and engineers from the greater Cambridge area (UK) together for an opportunity to meet and discuss machine learning research presented at NeurIPS. We also want to provide an opportunity for researchers to promote their work and meet people from their local community. The day will feature poster and panel sessions and in-person presentations.
   </p>
-  <p>
-    <img src="./pics/participants.jpg" alt="Hackathon Participants">
-  </p>
+<!--   <p> -->
+<!--     <img src="./pics/participants.jpg" alt="Hackathon Participants"> -->
+<!--   </p> -->
   <h2>Organising Team</h2>
     <ul>
     <li>
@@ -25,11 +25,6 @@ layout: home
       <li>
          <a target="_blank" href="">
           Christian Cabrera - University of Cambridge
-         </a>
-      </li>
-      <li>
-         <a target="_blank" href="">
-          Giorgos Felekis - University of Warwick
          </a>
       </li>
     </ul>
