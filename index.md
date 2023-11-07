@@ -18,7 +18,7 @@ layout: home
   <h2>Organising Team</h2>
     <ul>
     <li>
-         <a target="_blank" href="">
+         <a target="_blank" href="https://ievakazlauskaite.github.io/">
           Ieva Kazlauskaitė - UCL
          </a>
       </li>
