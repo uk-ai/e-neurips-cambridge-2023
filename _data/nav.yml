@@ -1,0 +1,10 @@
+main:
+  - label: Home
+    link: /e-neurips-cambridge-2023/
+  - label: Participants
+    link: /e-neurips-cambridge-2023/participants.html
+  - label: Schedule
+    link: /e-neurips-cambridge-2023/schedule.html
+  - label: Location
+    link: /e-neurips-cambridge-2023/location.html
+  
