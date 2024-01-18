@@ -1,3 +1,4 @@
 ---
-redirect: https://www.neuripsmeetupcambridge.info/
+layout: forward
+target: https://www.neuripsmeetupcambridge.info/
 ---
