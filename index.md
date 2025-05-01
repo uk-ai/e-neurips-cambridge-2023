@@ -1,4 +1,4 @@
 ---
 layout: forward
-target: https://www.neuripsmeetupcambridge.info/
+target: https://www.neuripsmeetupatcambridge.info/
 ---
