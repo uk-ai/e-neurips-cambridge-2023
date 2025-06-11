@@ -22,6 +22,7 @@ url: "https://uk-ai.org" # the base hostname & protocol for your site, e.g. http
 twitter_username: 
 github_username:  uk-ai
 baseurlsite: "https://uk-ai.org/e-neurips-cambridge-2023/"
+timezone: Europe/London
 
 ghub:
   edit: true
